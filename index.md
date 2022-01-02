@@ -1,37 +1,44 @@
-## Físico Médico Luis Alfonso Olivares Jimenez
+## Maestro en Ciencias Luis Alfonso Olivares Jimenez
 
-You can use the [editor on GitHub](https://github.com/LuisOlivaresJ/Resumen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Físico Médico en Radioterapia <br/>
+Centro Estatal de Oncología "Dr. Rubén Cardoza Macías" <br/>
+La Paz, Baja California Sur, México. <br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Formación académica 
+* Residencia hospitalaria en el Instituto Nacional de Cancerología (INCan) México 
+* Maestría en Ciencias (Física Médica), Universidad Nacional Autónoma de México (UNAM)
+* Licenciatura en Física, Universidad de Guadalajara
 
-### Markdown
+## Afiliación a sociedades
+* Sociedad Mexicana de Físicos en Medicina (SMFM). Miembro de la Comisión de Radioterapia.
+* Sociedad Mexicana de Radioterapeutas (SOMERA)
+* Sociedad Norteamericana de Físicos en Medicina (AAPM, por sus siglas en inglés)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Presentación de trabajos
+* (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia" 
+* (2021) Sociedad Mexicana de Físicos en Medicina. "Impacto del posicionamiento del paciente en tratamientos conformales e IMRT/VMAT" 
+* (2021) XIX Congreso SOMERA. "Uso de hipofraccionamiento (fast-forward) en tiempos de covid 19"
+* (2020) LXIII Congreso Nacional de Física (en línea). “Medición de factores de dispersión total para campos pequeños en un haz 6 MV sin filtro de aplanado usando película radiocrómica EBT3”.
+* (2020) 2° Simposium de Imagenología (en línea). “La radioterapia como modalidad de tratamiento contra el cáncer usando radiación”. La Paz, BCS.
+* (2018) World Congress on Medical Physics & Biomedical Engineering, Prague, Czech Republic. “Dose distribution in modern radiotherapy using radiochromic films: whole brain radiation therapy with hippocampal avoidance with IMRT technique”
+* (2018) XV Mexican Symposium on Medical Physics, “Distribución de dosis en radioterapia moderna usando película radiocrómica: irradiación de cerebro completo con protección a hipocampo con la técnica IMRT". Centro de Ciencias de la Complejidad, UNAM, Ciudad de México.
+* (2017) LX Congreso Nacional de Física, Monterrey, Nuevo León. “Caracterización de un haz de rayos-x de 6MV para radioterapia de cerebro completo y de columna usando cámaras de ionización”
+* (2015) LVIII Congreso Nacional de Física, Mérida, Yucatán. “Caracterización de un escáner para procedimientos de dosimetría con película radiocrómica EBT3"
 
-```markdown
-Syntax highlighted code block
+## Asistencia a cursos nacionales e internacionales
+* (2021) Selected Topics of Radiotheraphy, IAOM INCan. 
+* (2021) V Curso Nacional de Radioterapia ABC a la vanguardia de la tecnología
+* (2021) Simposio Virtual Braquiterapia Ginecológica, Hospital San Javier, Guadalajara.
+* (2021) Simposio de Medicina de Presición en Oncología y Radiómica, Médica Sur, Ciudad de México.
+* (2021) 38 Reunión Anual del Instituto Nacional de Cancerología. Innovaciones en radio oncología. INCan, Ciudad de México.
+* (2021) Taller de Braquiterapia 3D tumores GYN Oncentra, SOMERA
+* (2021) XIX Congreso SOMERA Nacional y I Internacional
+* (2020) 37 Reunión anual medica del INCan, Tópicos selectos de radioterapia, INCan, Ciudad de México.
+* (2019) Workshop de contorneo y planeación. INCan, Varian-EYMSA. Ciudad de México.
+* (2019) 4to. Curso internacional de Radioterapia, Centro Médico ABC, Ciudad de México.
+* (2019) VII Simposio Internacional de Radiocirugía INNN-Instituto Zunino InterOncology.
+* (2018) 2 o. Simposio Internacional de Radiocirugía del Hospital Español, Ciudad de México.
+* (2017) 3er. Curso Internacional de Radioterapia, Centro Médico ABC, Ciudad de México.
+* (2016) 2do. Curso Internacional de Radioterapia, Centro Médico ABC, Ciudad de México
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LuisOlivaresJ/Resumen/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
