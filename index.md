@@ -1,4 +1,4 @@
-![FotoPerfil](/IMG_20201209_092504.jpg)
+![FotoPerfil](/FotoPerfil.png)
 
 ## M. en C. Luis Alfonso Olivares Jimenez
 
