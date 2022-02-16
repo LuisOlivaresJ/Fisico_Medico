@@ -6,9 +6,24 @@ Físico Médico en Radioterapia <br/>
 Centro Estatal de Oncología "Dr. Rubén Cardoza Macías" <br/>
 La Paz, Baja California Sur, México. <br/>
 
+### Contacto
+* Correo: alfonso.cucei.udg@gmail.com
+* Teléfono: 612 12 12 271 EXT: 7141
+
 ## Formación 
-* Residencia hospitalaria Instituto Nacional de Cancerología (INCan) 
-* Maestría en Ciencias (Física Médica), UNAM.
+* Licenciatura en Física, Universidad de Guadalajara (UdeG). 
+* Maestría en Ciencias (Física Médica), Universidad Nacional Autónoma de México (UNAM).
+
+## Experiencia
+* (2018) Proyecto de investigación, Centro Médico ABC.
+* (2019) Residencia hospitalaria, Instituto Nacional de Cancerología (INCan).
+* (2020) Físico Médico y Auxiliar de Encargado de Seguridad Radiológica, CEO La Paz, BCS.
+
+## Habilidades
+* Elaboración y supervisión de un programa de garantía de calidad en radioterapia.
+* Dosimetría de técnicas avanzadas (SBRT) con película radiocrómica.
+* Desarrollo de software en Python para control de calidad de equipos emisores de radiación ionizante.
+* Planificación y evaluación de tratamientos 3D-Conformal, IMRT/VMAT y braquiterapia de alta tasa.
 
 ## Actividad en Sociedades Científicas
 * Sociedad Mexicana de Físicos en Medicina (SMFM). Miembro de la Comisión de Radioterapia.
@@ -27,7 +42,8 @@ La Paz, Baja California Sur, México. <br/>
 * (2015) LVIII Congreso Nacional de Física, Mérida, Yucatán. “Caracterización de un escáner para procedimientos de dosimetría con película radiocrómica EBT3"
 
 ## Asistencia a Congresos
-* (2021) Selected Topics of Radiotheraphy, IAOM INCan. 
+* (2022) Tópicos Selectos en Radioterapia, Reunión Anual INCan.
+* (2021) Tópicos Selectos en Radioterapia, Reunión Anual INCan. 
 * (2021) V Curso Nacional de Radioterapia ABC a la vanguardia de la tecnología
 * (2021) Simposio Virtual Braquiterapia Ginecológica, Hospital San Javier, Guadalajara.
 * (2021) Simposio de Medicina de Presición en Oncología y Radiómica, Médica Sur, Ciudad de México.
