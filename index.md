@@ -11,8 +11,8 @@ La Paz, Baja California Sur, México. <br/>
 * Teléfono: 612 12 12 271 EXT: 7141
 
 ## Formación 
-* Licenciatura en Física, Universidad de Guadalajara (UdeG). 
-* Maestría en Ciencias (Física Médica), Universidad Nacional Autónoma de México (UNAM).
+* **Licenciatura en Física**, Universidad de Guadalajara (UdeG). 
+* **Maestría en Ciencias (Física Médica)**, Universidad Nacional Autónoma de México (UNAM).
 
 ## Experiencia
 * (2018) Proyecto de investigación, Centro Médico ABC.
@@ -26,9 +26,9 @@ La Paz, Baja California Sur, México. <br/>
 * Planificación y evaluación de tratamientos 3D-Conformal, IMRT/VMAT y braquiterapia de alta tasa.
 
 ## Actividad en Sociedades Científicas
-* Sociedad Mexicana de Físicos en Medicina (SMFM). Miembro de la Comisión de Radioterapia.
-* Sociedad Mexicana de Radioterapeutas (SOMERA).
-* Sociedad Norteamericana de Físicos en Medicina (AAPM).
+* **Sociedad Mexicana de Físicos en Medicina** (SMFM). Miembro de la Comisión de Radioterapia.
+* **Sociedad Mexicana de Radioterapeutas** (SOMERA).
+* **Sociedad Norteamericana de Físicos en Medicina** (AAPM).
 
 ## Exposición en Congresos o Cursos
 * (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia" 
