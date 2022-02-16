@@ -22,7 +22,7 @@ La Paz, Baja California Sur, México. <br/>
 ## Habilidades
 * Elaboración y supervisión de un programa de garantía de calidad en radioterapia.
 * Dosimetría de técnicas avanzadas (SBRT) con película radiocrómica.
-* Desarrollo de software en Python para control de calidad de equipos emisores de radiación ionizante.
+* Desarrollo de software en Python para control de calidad en equipos emisores de radiación ionizante.
 * Planificación y evaluación de tratamientos 3D-Conformal, IMRT/VMAT y braquiterapia de alta tasa.
 
 ## Actividad en Sociedades Científicas
