@@ -11,8 +11,8 @@ La Paz, Baja California Sur, México. <br/>
 * Teléfono: 612 12 12 271 EXT: 7141
 
 ## Formación 
-* **Licenciatura en Física**, Universidad de Guadalajara (UdeG). 
-* **Maestría en Ciencias (Física Médica)**, Universidad Nacional Autónoma de México (UNAM).
+* **Licenciatura en Física**, Universidad de Guadalajara (UdeG), Cédula 11554608.
+* **Maestría en Ciencias (Física Médica)**, Universidad Nacional Autónoma de México (UNAM), Cédula 12054262.
 
 ## Experiencia
 * (2018) Proyecto de investigación, Centro Médico ABC.
@@ -20,17 +20,18 @@ La Paz, Baja California Sur, México. <br/>
 * (2020) Físico Médico y Auxiliar de Encargado de Seguridad Radiológica, CEO La Paz, BCS.
 
 ## Habilidades
-* Elaboración y supervisión de un programa de garantía de calidad en radioterapia.
+* Elaboración, implementación y supervisión de un programa de garantía de calidad en radioterapia.
 * Dosimetría de técnicas avanzadas (SBRT) con película radiocrómica.
-* Desarrollo de software en Python para control de calidad en equipos emisores de radiación ionizante.
-* Planificación y evaluación de tratamientos 3D-Conformal, IMRT/VMAT y braquiterapia de alta tasa.
+* Desarrollo de software en Python para control de calidad.
+* Planificación y evaluación de tratamientos 3D-Conformal, IMRT/VMAT en un acelerador lineal 
+* Planificación y evaluación de tratamientos de braquiterapia con alta tasa.
 
 ## Actividad en Sociedades Científicas
 * **Sociedad Mexicana de Físicos en Medicina** (SMFM). Miembro de la Comisión de Radioterapia.
 * **Sociedad Mexicana de Radioterapeutas** (SOMERA).
 * **Sociedad Norteamericana de Físicos en Medicina** (AAPM).
 
-## Exposición en Congresos o Cursos
+## Exposición en Cursos o Congresos
 * (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia" 
 * (2021) Sociedad Mexicana de Físicos en Medicina. "Impacto del posicionamiento del paciente en tratamientos conformales e IMRT/VMAT" 
 * (2021) XIX Congreso SOMERA. "Uso de hipofraccionamiento (fast-forward) en tiempos de covid 19"
