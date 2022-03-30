@@ -18,7 +18,7 @@ La Paz, Baja California Sur, México. <br/>
 * (2018) Proyecto de investigación, Centro Médico ABC.
 * (2019) Residencia hospitalaria, Instituto Nacional de Cancerología (INCan).
 * (2020) Físico Médico y Auxiliar de Encargado de Seguridad Radiológica, CEO La Paz, BCS.
-* (2022) Jefe del Departamento de Física Médica, CEO La Paz, BCS.
+* (2022) Jefe de Departamento de Física Médica, CEO La Paz, BCS.
 
 ## Habilidades
 * Elaboración, implementación y supervisión de un programa de garantía de calidad en radioterapia.
