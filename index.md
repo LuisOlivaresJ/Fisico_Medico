@@ -27,7 +27,7 @@ La Paz, Baja California Sur, México. <br/>
 * Planificación y evaluación de tratamientos 3D-Conformal, IMRT/VMAT en un acelerador lineal 
 * Planificación y evaluación de tratamientos de braquiterapia con alta tasa.
 
-## Actividad en Sociedades Científicas y Comité Hospitalario
+## Actividad en Sociedades Científicas
 * **Sociedad Mexicana de Físicos en Medicina** (SMFM). Miembro de la Comisión de Radioterapia.
 * **Sociedad Mexicana de Radioterapeutas** (SOMERA).
 
