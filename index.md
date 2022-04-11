@@ -27,10 +27,12 @@ La Paz, Baja California Sur, México. <br/>
 * Planificación y evaluación de tratamientos 3D-Conformal, IMRT/VMAT en un acelerador lineal 
 * Planificación y evaluación de tratamientos de braquiterapia con alta tasa.
 
-## Actividad en Sociedades Científicas
+## Actividad en Sociedades Científicas y Comité Hospitalario
 * **Sociedad Mexicana de Físicos en Medicina** (SMFM). Miembro de la Comisión de Radioterapia.
 * **Sociedad Mexicana de Radioterapeutas** (SOMERA).
-* **Sociedad Norteamericana de Físicos en Medicina** (AAPM).
+
+## Actividad en Comité Hospitalario
+* **Comité de Seguridad Radiológica**. Secretario técnico 
 
 ## Exposición en Cursos o Congresos
 * (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia" 
