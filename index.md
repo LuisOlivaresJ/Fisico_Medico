@@ -11,8 +11,8 @@ La Paz, Baja California Sur, México. <br/>
 * Teléfono: 612 12 12 271 EXT: 7141
 
 ## Formación 
-* **Licenciatura en Física**, Universidad de Guadalajara (UdeG), Cédula 11554608.
-* **Maestría en Ciencias (Física Médica)**, Universidad Nacional Autónoma de México (UNAM), Cédula 12054262.
+* **Licenciatura en Física**, Universidad de Guadalajara (UdeG), CP 11554608.
+* **Maestría en Ciencias (Física Médica)**, Universidad Nacional Autónoma de México (UNAM), CP 12054262.
 
 ## Experiencia
 * (2018) Proyecto de investigación, Centro Médico ABC.
