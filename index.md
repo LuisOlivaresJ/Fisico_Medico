@@ -32,7 +32,8 @@ La Paz, Baja California Sur, México. <br/>
 * **Sociedad Mexicana de Radioterapeutas** (SOMERA).
 
 ## Actividad en Comité Hospitalario
-* **Comité de Seguridad Radiológica**. Secretario técnico 
+* **Comité de Seguridad Radiológica**. Secretario técnico
+* **Comité de Detección y Control de Infecciones Nosocomiales**. Vocal
 
 ## Exposición en Cursos o Congresos
 * (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia" 
