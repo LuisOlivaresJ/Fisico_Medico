@@ -10,12 +10,12 @@ La Paz, Baja California Sur, México. <br/>
 * Correo: alfonso.cucei.udg@gmail.com
 * Teléfono: 612 12 12 271 EXT: 7141
 
-## Formación 
+## Formación
 * **Licenciatura en Física**, Universidad de Guadalajara (UdeG), CP 11554608.
 * **Maestría en Ciencias (Física Médica)**, Universidad Nacional Autónoma de México (UNAM), CP 12054262.
 
 ## Experiencia
-* (2018) Proyecto de investigación, Centro Médico ABC.
+* (2018) Proyecto de investigación, Centro Médico ABC. [Tesis de maestría](https://github.com/LuisOlivaresJ/Fisico_Medico/blob/3448c3c2096c72f6c0d23534a7b1525f1b030b08/docs/Tesis%20Maestria%20Luis_O.pdf)
 * (2019) Residencia hospitalaria, Instituto Nacional de Cancerología (INCan).
 * (2020) Físico Médico y Auxiliar de Encargado de Seguridad Radiológica, CEO La Paz, BCS.
 * (2022) Encargado del Servicio de Física Médica, CEO La Paz, BCS.
@@ -23,8 +23,8 @@ La Paz, Baja California Sur, México. <br/>
 ## Habilidades
 * Elaboración, implementación y supervisión de un programa de garantía de calidad en radioterapia.
 * Dosimetría de técnicas avanzadas (SBRT) con película radiocrómica.
-* Desarrollo de software en Python para control de calidad.
-* Planificación y evaluación de tratamientos 3D-Conformal, IMRT/VMAT en un acelerador lineal 
+* Desarrollo de software en Python para control de calidad. [Dosepy](https://luisolivaresj.github.io/Dosepy/)
+* Planificación y evaluación de tratamientos 3D-Conformal, IMRT/VMAT en un acelerador lineal
 * Planificación y evaluación de tratamientos de braquiterapia con alta tasa.
 
 ## Actividad en Sociedades Científicas
@@ -35,9 +35,12 @@ La Paz, Baja California Sur, México. <br/>
 * **Comité de Seguridad Radiológica**. Secretario técnico
 * **Comité de Detección y Control de Infecciones Nosocomiales**. Vocal
 
+## Obras registradas
+* **Dosepy:** Programa de computadora para el análisis de distribuciones de dosis. Registro: (c) Luis Alfonso Olivares Jimenez 2021 03-2021-093012460400-01 
+
 ## Exposición en Cursos o Congresos
-* (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia" 
-* (2021) Sociedad Mexicana de Físicos en Medicina. "Impacto del posicionamiento del paciente en tratamientos conformales e IMRT/VMAT" 
+* (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia"
+* (2021) Sociedad Mexicana de Físicos en Medicina. "Impacto del posicionamiento del paciente en tratamientos conformales e IMRT/VMAT"
 * (2021) XIX Congreso SOMERA. "Uso de hipofraccionamiento (fast-forward) en tiempos de covid 19"
 * (2020) LXIII Congreso Nacional de Física (en línea). “Medición de factores de dispersión total para campos pequeños en un haz 6 MV sin filtro de aplanado usando película radiocrómica EBT3”.
 * (2020) 2° Simposium de Imagenología (en línea). “La radioterapia como modalidad de tratamiento contra el cáncer usando radiación”. La Paz, BCS.
@@ -48,7 +51,7 @@ La Paz, Baja California Sur, México. <br/>
 
 ## Asistencia a Congresos
 * (2022) Tópicos Selectos en Radioterapia, Reunión Anual INCan.
-* (2021) Tópicos Selectos en Radioterapia, Reunión Anual INCan. 
+* (2021) Tópicos Selectos en Radioterapia, Reunión Anual INCan.
 * (2021) V Curso Nacional de Radioterapia ABC a la vanguardia de la tecnología
 * (2021) Simposio Virtual Braquiterapia Ginecológica, Hospital San Javier, Guadalajara.
 * (2021) Simposio de Medicina de Precisión en Oncología y Radiómica, Médica Sur, Ciudad de México.
@@ -62,5 +65,3 @@ La Paz, Baja California Sur, México. <br/>
 * (2018) 2 o. Simposio Internacional de Radiocirugía del Hospital Español, Ciudad de México.
 * (2017) 3er. Curso Internacional de Radioterapia, Centro Médico ABC, Ciudad de México.
 * (2016) 2do. Curso Internacional de Radioterapia, Centro Médico ABC, Ciudad de México
-
-
