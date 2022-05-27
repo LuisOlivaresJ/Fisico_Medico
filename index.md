@@ -28,8 +28,8 @@ La Paz, Baja California Sur, México. <br/>
 * Planificación y evaluación de tratamientos de braquiterapia con alta tasa.
 
 ## Actividad en Sociedades Científicas
-* **Sociedad Mexicana de Físicos en Medicina** (SMFM). Miembro de la Comisión de Radioterapia.
-* **Sociedad Mexicana de Radioterapeutas** (SOMERA).
+* **Sociedad Mexicana de Físicos en Medicina** [(SMFM)](https://smfm.mx/). Miembro de la Comisión de Radioterapia.
+* **Sociedad Mexicana de Radioterapeutas** [(SOMERA)](https://www.somera.org.mx/).
 
 ## Actividad en Comité Hospitalario
 * **Comité de Seguridad Radiológica**. Secretario técnico
