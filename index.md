@@ -23,7 +23,7 @@ La Paz, Baja California Sur, México. <br/>
 ## Habilidades
 * Elaboración, implementación y supervisión de un programa de garantía de calidad en radioterapia.
 * Dosimetría de técnicas avanzadas (SBRT) con película radiocrómica.
-* Desarrollo de software en Python para control de calidad. [Dosepy](https://luisolivaresj.github.io/Dosepy/)[Video](https://youtu.be/HM4qkYGzNFc)
+* Desarrollo de software en Python para control de calidad. [Dosepy](https://luisolivaresj.github.io/Dosepy/) [Video](https://youtu.be/HM4qkYGzNFc)
 * Planificación y evaluación de tratamientos 3D-Conformal, IMRT/VMAT en un acelerador lineal
 * Planificación y evaluación de tratamientos de braquiterapia con alta tasa.
 
