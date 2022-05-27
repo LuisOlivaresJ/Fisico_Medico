@@ -23,7 +23,7 @@ La Paz, Baja California Sur, México. <br/>
 ## Habilidades
 * Elaboración, implementación y supervisión de un programa de garantía de calidad en radioterapia.
 * Dosimetría de técnicas avanzadas (SBRT) con película radiocrómica.
-* Desarrollo de software en Python para control de calidad. [Dosepy](https://luisolivaresj.github.io/Dosepy/)
+* Desarrollo de software en Python para control de calidad. [Dosepy](https://luisolivaresj.github.io/Dosepy/)[Video](https://youtu.be/HM4qkYGzNFc)
 * Planificación y evaluación de tratamientos 3D-Conformal, IMRT/VMAT en un acelerador lineal
 * Planificación y evaluación de tratamientos de braquiterapia con alta tasa.
 
@@ -36,14 +36,14 @@ La Paz, Baja California Sur, México. <br/>
 * **Comité de Detección y Control de Infecciones Nosocomiales**. Vocal
 
 ## Obras registradas
-* **Dosepy:** Programa de computadora para el análisis de distribuciones de dosis. Registro: (c) Luis Alfonso Olivares Jimenez 2021 03-2021-093012460400-01 
+* **Dosepy:** Programa de computadora para el análisis de distribuciones de dosis. Registro: (c) Luis Alfonso Olivares Jimenez 2021 03-2021-093012460400-01
 
 ## Exposición en Cursos o Congresos
-* (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia"
+* (2021) 7mo Congreso de la Federación Mexicana de Organizaiones de Física Médica, "Desarrollo y validación de un software de código abierto para la comparación de distribuciones de dosis usadas en radioterapia" [Video](https://youtu.be/HM4qkYGzNFc)
 * (2021) Sociedad Mexicana de Físicos en Medicina. "Impacto del posicionamiento del paciente en tratamientos conformales e IMRT/VMAT"
 * (2021) XIX Congreso SOMERA. "Uso de hipofraccionamiento (fast-forward) en tiempos de covid 19"
 * (2020) LXIII Congreso Nacional de Física (en línea). “Medición de factores de dispersión total para campos pequeños en un haz 6 MV sin filtro de aplanado usando película radiocrómica EBT3”.
-* (2020) 2° Simposium de Imagenología (en línea). “La radioterapia como modalidad de tratamiento contra el cáncer usando radiación”. La Paz, BCS.
+* (2020) 2° Simposium de Imagenología. “La radioterapia como modalidad de tratamiento contra el cáncer usando radiación”. La Paz, BCS.
 * (2018) World Congress on Medical Physics & Biomedical Engineering, Prague, Czech Republic. “Dose distribution in modern radiotherapy using radiochromic films: whole brain radiation therapy with hippocampal avoidance with IMRT technique”
 * (2018) XV Mexican Symposium on Medical Physics, “Distribución de dosis en radioterapia moderna usando película radiocrómica: irradiación de cerebro completo con protección a hipocampo con la técnica IMRT". Centro de Ciencias de la Complejidad, UNAM, Ciudad de México.
 * (2017) LX Congreso Nacional de Física, Monterrey, Nuevo León. “Caracterización de un haz de rayos-x de 6MV para radioterapia de cerebro completo y de columna usando cámaras de ionización”
