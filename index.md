@@ -50,6 +50,7 @@ La Paz, Baja California Sur, México. <br/>
 * (2015) LVIII Congreso Nacional de Física, Mérida, Yucatán. “Caracterización de un escáner para procedimientos de dosimetría con película radiocrómica EBT3"
 
 ## Asistencia a Congresos
+* (2022) ESTRO Comprehensive and practical brachytherapy, Hospital Español, CDMX.
 * (2022) Tópicos Selectos en Radioterapia, Reunión Anual INCan.
 * (2021) Tópicos Selectos en Radioterapia, Reunión Anual INCan.
 * (2021) V Curso Nacional de Radioterapia ABC a la vanguardia de la tecnología
